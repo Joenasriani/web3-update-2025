@@ -15,3 +15,13 @@ The relevant maintained research direction is:
 - Joe Nasr Research Registry: https://github.com/Joenasriani/joe-research-registry
 
 This repository is retained as a legacy experiment until its code is either repaired and archived under an accurate name or superseded completely by the maintained Quest 4D work.
+
+## Implementation
+
+The current `index.html` is a standalone browser demonstration with embedded CSS and JavaScript. It shows a projected tesseract with controls for rotation across 4D planes. No Web3 functions, wallet connections, or blockchain integration were identified in the inspected file.
+
+This is a historical prototype, not an actively maintained Web3 application or verified scientific simulator.
+
+Credit: Joe Nasr
+
+Portfolio: https://joe-nasr-signals.vercel.app/
